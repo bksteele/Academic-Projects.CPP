@@ -1,0 +1,9 @@
+Tree 5 == Tree 4 : 1
+Tree 5 != Tree 4 : 0
+Tree 2 == Tree 3 : 1
+Tree 2 != Tree 5 : 1
+Tree 2 != Tree 3 : 0
+Tree 2 level of n: 3
+Tree 2 level of s: 2
+Tree 2 level of y: 1
+Tree 1 level of y: 0

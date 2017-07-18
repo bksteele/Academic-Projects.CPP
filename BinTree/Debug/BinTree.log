@@ -1,0 +1,9 @@
+﻿  testDriver.cpp
+  bintree.cpp
+  Generating Code...
+c:\users\bianca\documents\visual studio 2015\projects\bintree\bintree\bintree.cpp(234): warning C4715: 'BinTree::getHeight': not all control paths return a value
+c:\users\bianca\documents\visual studio 2015\projects\bintree\bintree\bintree.cpp(419): warning C4715: 'BinTree::insertHelper': not all control paths return a value
+c:\users\bianca\documents\visual studio 2015\projects\bintree\bintree\bintree.cpp(454): warning C4715: 'BinTree::equalityHelper': not all control paths return a value
+c:\users\bianca\documents\visual studio 2015\projects\bintree\bintree\bintree.cpp(494): warning C4715: 'BinTree::retrieveHelper': not all control paths return a value
+  BinTree.vcxproj -> C:\Users\Bianca\documents\visual studio 2015\Projects\BinTree\Debug\BinTree.exe
+  BinTree.vcxproj -> C:\Users\Bianca\documents\visual studio 2015\Projects\BinTree\Debug\BinTree.pdb (Partial PDB)
